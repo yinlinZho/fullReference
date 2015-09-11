@@ -1,0 +1,77 @@
+
+origin_path =
+
+E:\capture\fr\testcase1\huajiao_lighter_5.0_origin010.png
+
+
+lossy_path =
+
+E:\capture\fr\testcase1\huajiao_lighter_5.0_lossy011.png
+
+
+lossy_feature =
+
+     0     0   802   601
+
+
+origin_feature =
+
+     0     0   794   597
+
+case2
+
+ans =
+
+     2     3   794   597
+
+
+cmd =
+
+E:\ROI\ROI2.exe -s2 E:\capture\fr\testcase1\huajiao_lighter_5.0_lossy011_new.png E:\capture\fr\testcase1\huajiao_lighter_5.0_lossy011_fit.png 2 3 794 597
+
+
+log =
+
+      0.75599      0.76632      0.77622      0.78419
+      0.76653      0.77696      0.78634      0.79418
+       0.7732      0.78251        0.791      0.79769
+      0.77424       0.7822      0.78895      0.79451
+      0.76943      0.77543      0.78071      0.78468
+      0.75968      0.76424      0.76789      0.77095
+      0.74698      0.75014      0.75297      0.75514
+      0.73353      0.73614      0.73825      0.74026
+
+
+maximum =
+
+      0.79769
+
+
+left_top =
+
+     3     4
+
+
+h = 
+
+  <a href="matlab:helpPopup matlab.ui.Figure" style="font-weight:bold">Figure</a> (10) (具有属性):
+
+      Number: 10
+        Name: ''
+       Color: [0.94 0.94 0.94]
+    Position: [680 558 560 420]
+       Units: 'pixels'
+
+  显示 <a href="matlab:if exist('h', 'var'), matlab.graphics.internal.getForDisplay('h', h, 'matlab.ui.Figure'), else, matlab.graphics.internal.getForDisplay('h'), end">所有属性</a>
+
+
+maximum =
+
+      0.79769
+
+
+A =
+
+      0.79769      0.96769      0.87054      0.91844
+
+时间已过 4.677001 秒。

@@ -1,0 +1,13 @@
+,ssim,vsi,featuresim,msssim
+huajiao_dark_4.4_origin200_huajiao_dark_4.4_lossy201.csv,0.76888,0.98925,0.93979,0.96046
+huajiao_dark_5.0_origin030_huajiao_dark_5.0_lossy031.csv,0.817,0.9718,0.85638,0.8834
+huajiao_lighter_4.4_origin180_huajiao_lighter_4.4_lossy181.csv,0.8188,0.97788,0.93134,0.95164
+huajiao_lighter_5.0_origin010_huajiao_lighter_5.0_lossy011.csv,0.79769,0.96769,0.87054,0.91844
+huajiao_natural_4.4_origin190_huajiao_natural_4.4_lossy191.csv,0.82209,0.98786,0.9249,0.96045
+huajiao_natural_5.0_origin020_huajiao_natural_5.0_lossy021.csv,0.79589,0.96222,0.82296,0.85106
+yy_dark_4.4_origin520_yy_dark_4.4_lossy521.csv,0.75937,0.98265,0.8927,0.9225
+yy_dark_5.0_origin360_yy_dark_5.0_lossy361.csv,0.8186,0.9854,0.88182,0.93311
+yy_lighter_4.4_origin500_yy_lighter_4.4_lossy501.csv,0.82413,0.97816,0.9013,0.93978
+yy_lighter_5.0_origin340_yy_lighter_5.0_lossy341.csv,0.78917,0.97015,0.85912,0.90524
+yy_natural_4.4_origin510_yy_natural_4.4_lossy511.csv,0.84484,0.99361,0.95407,0.976
+yy_natural_5.0_origin350_yy_natural_5.0_lossy351.csv,0.8545,0.97737,0.863,0.91283

@@ -1,0 +1,70 @@
+
+origin_path =
+
+E:\capture\fr\testcase51\yy_natural_4.4_origin510.png
+
+
+lossy_path =
+
+E:\capture\fr\testcase51\yy_natural_4.4_lossy511.png
+
+
+lossy_feature =
+
+     6     0   729   528
+
+
+origin_feature =
+
+     6     0   729   528
+
+case1
+
+ans =
+
+     0     0   729   528
+
+
+cmd =
+
+E:\ROI\ROI2.exe -s2 E:\capture\fr\testcase51\yy_natural_4.4_origin510_new.png E:\capture\fr\testcase51\yy_natural_4.4_origin510_fit.png 0 0 729 528
+
+
+log =
+
+     []
+
+
+maximum =
+
+      0.84484
+
+
+left_top =
+
+     1     1
+
+
+h = 
+
+  <a href="matlab:helpPopup matlab.ui.Figure" style="font-weight:bold">Figure</a> (17) (具有属性):
+
+      Number: 17
+        Name: ''
+       Color: [0.94 0.94 0.94]
+    Position: [680 558 560 420]
+       Units: 'pixels'
+
+  显示 <a href="matlab:if exist('h', 'var'), matlab.graphics.internal.getForDisplay('h', h, 'matlab.ui.Figure'), else, matlab.graphics.internal.getForDisplay('h'), end">所有属性</a>
+
+
+maximum =
+
+      0.84484
+
+
+A =
+
+      0.84484      0.99361      0.95407        0.976
+
+时间已过 1.849243 秒。

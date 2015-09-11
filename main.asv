@@ -1,0 +1,26 @@
+function main(rootpath)    
+    tic;
+    format shortg;    
+    fx = 'ssim';   
+    path_list = multi(rootpath)
+    
+    origin_path = 'E:\algorithm\fr\test_size\im1\test.png';
+    lossy_path = 'E:\algorithm\fr\test_size\im1\enlarge.png';
+    [pathstr1,origin,ext] = fileparts(origin_path);
+    [pathstr2,lossy,ext] = fileparts(lossy_path);
+    %open log
+    logfile = ['log\',origin,'_',lossy, '.log']
+    diary(logfile);
+    diary on;
+
+    maximum = optimize_search(origin_path,lossy_path,str2func(fx));
+    
+    result = run([pathstr1,'\',origin,'_fit',ext],[pathstr2,'\',lossy,'_fit',ext]);
+    outpath = fullfile(['qa\',origin,'_',lossy,'.csv']);
+    A = [maximum result]
+    csvwrite(outpath,A)
+    
+    
+    
+    toc;
+    diary off;
